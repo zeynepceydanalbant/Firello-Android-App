@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "272317440842-2u0unashkbidht681b0n48c34dq7flvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firello02",
+            "certificate_hash": "32c55bf227712f6c29ce2529ae4840f271d80950"
+          }
+        },
+        {
           "client_id": "272317440842-h5mt75vb95pd54es46eakre85blj7o54.apps.googleusercontent.com",
           "client_type": 3
         }

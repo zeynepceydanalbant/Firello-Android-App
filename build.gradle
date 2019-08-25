@@ -8,6 +8,7 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.5.0'
+        classpath 'com.google.gms:google-services:4.2.0' //google service ekliyoruz
         
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
@@ -24,4 +25,9 @@ allprojects {
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+}
+
+dependencies {
+    // add SDKs for desired Firebase products
+     //'https://firebase.google.com/docs/android/setup#available-libraries'
 }
