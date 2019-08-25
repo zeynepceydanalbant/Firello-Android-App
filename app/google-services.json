@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272317440842",
+    "firebase_url": "https://fire-351a4.firebaseio.com",
+    "project_id": "fire-351a4",
+    "storage_bucket": "fire-351a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272317440842:android:bcb379d48e333234",
+        "android_client_info": {
+          "package_name": "com.example.firello02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272317440842-h5mt75vb95pd54es46eakre85blj7o54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeuRAZAW13MmJgiAiZWuCQIGDUgcVNkYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272317440842-h5mt75vb95pd54es46eakre85blj7o54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
